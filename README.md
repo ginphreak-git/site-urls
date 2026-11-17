@@ -13,3 +13,8 @@ URL letti dalle app:
 
 - https://raw.githubusercontent.com/ginphreak-git/site-urls/main/soul.json
 - https://raw.githubusercontent.com/ginphreak-git/site-urls/main/pz8.json
+
+## App Android
+
+- Soul: https://github.com/ginphreak-git/site-urls/raw/main/apps/Soul-Android-0.1.0.apk
+- PZ8: https://github.com/ginphreak-git/site-urls/raw/main/apps/PZ8-Android-0.1.0.apk
